@@ -29,6 +29,8 @@
 
   <h3>Imagen representativa</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Video-Game-Controller-Icon-IDV-green.svg" alt="Control de videojuego" width="200" style="border: 2px solid #333; border-radius: 10px;">
+  ![image](https://github.com/user-attachments/assets/ed7b8446-b59e-40ec-a4df-b2c4efb690ff)
+
 
   <h3>¿Quieres saber más?</h3>
   <p>Para conocer más sobre la historia de los videojuegos, puedes visitar este enlace:</p>
