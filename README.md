@@ -3,7 +3,7 @@
   <meta charset="UTF-8">
   <title>Videojuegos: Pasión y Cultura</title>
 </head>
-<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
+<body style="font-family: Arial, sans-serif; background-color: #0000FF; padding: 20px;">
 
   <h1 style="color: #7FFFD4;">Videojuegos: Pasión y Cultura</h1>
 
